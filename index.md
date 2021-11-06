@@ -3,3 +3,17 @@
 
 # Another page
 [Hello World!](hello_world.md)
+
+# Test CSS
+<style>
+.red
+{
+    color: red
+}
+<\style>
+
+```bash { .red }
+git remote add origin github.com
+```
+
+3.1415 { #identifier .red }
