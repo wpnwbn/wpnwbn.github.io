@@ -6,10 +6,7 @@
 
 # Test CSS
 <style>
-.red
-{
-    color: red
-}
+.red {color: red}
 <\style>
 
 ```{ .red }
