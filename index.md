@@ -12,8 +12,6 @@
 }
 <\style>
 
-```bash { .red }
+```{ .red }
 git remote add origin github.com
 ```
-
-3.1415 { #identifier .red }
